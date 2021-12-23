@@ -42,8 +42,8 @@ else:
     else:
         door = input("You have reached Santa's neighbor hood. There are three doors. 'Red', 'Green', and 'Yellow'. Which one do you go into?").lower()
         if door == 'green':
-            print("You walked in a elf's house. They were all eating food and they do not like being disterbed so the whole fsmily tackeled you. ")
+            print("You walked in a elf's house. They were all eating food and they do not like being disturbed so the whole family tackled you. ")
         elif door == 'red':
-            "You walked in a sana, and the people charged you for loosing their warmth."
+            "You walked in a sauna, and the people charged you for loosing their warmth."
         else:
             "You found Santa and gave him a big hug. "
