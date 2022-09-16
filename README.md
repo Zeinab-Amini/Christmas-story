@@ -1,3 +1,8 @@
+In this project, it will first print a Christmas tree. 
+Then after that the story starts. 
+Anything you decide will determain the next thing or step that is going to happen to you. 
+
+
 ## Treasure Island
 
 # Instructions
